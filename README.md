@@ -19,7 +19,5 @@ SciPy 🧪
 ```
 These packages can be installed using pip or another package manager. 📦
 
-## Usage
-To use the notebooks in this repository, you can clone the repository to your local machine and open the notebooks in Jupyter. Alternatively, you can view the notebooks directly on GitHub by clicking on the notebook file and then clicking the "Open in Colab" button. 🖥️
 
 Thanks for checking out this repository! If you have any questions or feedback, feel free to open an issue or reach out to me. 🤝
